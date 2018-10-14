@@ -1,14 +1,14 @@
 Codewars:
 
-     1. http://www.codewars.com/kata/opposite-number
-     2. http://www.codewars.com/kata/basic-mathematical-operations
-     3. http://www.codewars.com/kata/printing-array-elements-with-comma-delimiters
-     4. http://www.codewars.com/kata/transportation-on-vacation
-     5. http://www.codewars.com/kata/get-the-middle-character
-     6. http://www.codewars.com/kata/partition-on
-     7. http://www.codewars.com/kata/word-count
-     8. http://www.codewars.com/kata/remove-first-and-last-character-part-two
-     9. http://www.codewars.com/kata/implement-a-filter-function
+     1. http://www.codewars.com/kata/opposite-number solved
+     2. http://www.codewars.com/kata/basic-mathematical-operations solved
+     3. http://www.codewars.com/kata/printing-array-elements-with-comma-delimiters solved
+     4. http://www.codewars.com/kata/transportation-on-vacation solved
+     5. http://www.codewars.com/kata/get-the-middle-character solved
+     6. http://www.codewars.com/kata/partition-on solved
+     7. http://www.codewars.com/kata/word-count solved
+     8. http://www.codewars.com/kata/remove-first-and-last-character-part-two solved
+     9. http://www.codewars.com/kata/implement-a-filter-function solved
      10. http://www.codewars.com/kata/prefill-an-array
      11. http://www.codewars.com/kata/cross-product-of-vectors
      12. http://www.codewars.com/kata/sequence-generator-1
