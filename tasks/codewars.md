@@ -9,21 +9,21 @@ Codewars:
      7. http://www.codewars.com/kata/word-count solved
      8. http://www.codewars.com/kata/remove-first-and-last-character-part-two solved
      9. http://www.codewars.com/kata/implement-a-filter-function solved
-     10. http://www.codewars.com/kata/prefill-an-array
-     11. http://www.codewars.com/kata/cross-product-of-vectors
-     12. http://www.codewars.com/kata/sequence-generator-1
+     10. http://www.codewars.com/kata/prefill-an-array solved
+     11. http://www.codewars.com/kata/cross-product-of-vectors solved
+     12. http://www.codewars.com/kata/sequence-generator-1 solved
      13. https://www.codewars.com/kata/base-conversion/
-     14. http://www.codewars.com/kata/closures-and-scopes
-     15. http://www.codewars.com/kata/a-function-within-a-function
+     14. http://www.codewars.com/kata/closures-and-scopes solved
+     15. http://www.codewars.com/kata/a-function-within-a-function solved
      16. http://www.codewars.com/kata/can-you-keep-a-secret
      17. http://www.codewars.com/kata/using-closures-to-share-class-state
-     18. http://www.codewars.com/kata/a-chain-adding-function
+     18. http://www.codewars.com/kata/a-chain-adding-function solved
      19. http://www.codewars.com/kata/function-cache
      20. http://www.codewars.com/kata/function-composition
      21. http://www.codewars.com/kata/function-composition-1
-     22. http://www.codewars.com/kata/stringing-me-along
+     22. http://www.codewars.com/kata/stringing-me-along solved
      23. http://www.codewars.com/kata/i-spy
-     24. http://www.codewars.com/kata/calculating-with-functions
+     24. http://www.codewars.com/kata/calculating-with-functions solved
      25. http://www.codewars.com/kata/santaclausable-interface
      26. http://www.codewars.com/kata/new-with-apply
      27. http://www.codewars.com/kata/extract-nested-object-reference
